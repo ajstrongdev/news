@@ -37,3 +37,22 @@ body {
     margin-top: .5em;
     margin-bottom: .5em;
 }
+
+.post-meta {
+    color: var(--off-white);
+}
+
+.post-link {
+    color: var(--off-white);
+    text-decoration: none;
+}
+
+.site-title {
+    color: var(--off-white);
+    text-decoration: none;
+}
+
+.page-link {
+    color: var(--off-white);
+    text-decoration: none;
+}
