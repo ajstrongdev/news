@@ -58,7 +58,7 @@ a .page-link {
 }
 
 a:visited {
-    color: var(--off-white);
+    color: var(--rhino-purple);
 }
 
 a:hover {
