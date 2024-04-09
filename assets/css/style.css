@@ -104,3 +104,8 @@ a:hover {
 .footer-col-wrapper {
     color: var(--off-white);
 }
+
+label {
+    background: var(--site-300);
+    color: var(--off-white);
+}
