@@ -52,7 +52,11 @@ body {
     text-decoration: none;
 }
 
-.page-link {
+a .page-link {
     color: var(--off-white);
     text-decoration: none;
+}
+
+a:visited {
+    color: var(--off-white);
 }
