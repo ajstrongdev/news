@@ -57,6 +57,11 @@ a .page-link {
     text-decoration: none;
 }
 
+a {
+    color: var(--rhino-purple);
+    text-decoration: none;
+}
+
 a:visited {
     color: var(--rhino-purple);
 }
