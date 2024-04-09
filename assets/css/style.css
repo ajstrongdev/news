@@ -34,4 +34,6 @@ body {
     background-color: var(--site-200);
     border-radius: 0.65em;
     padding: .5em;
+    margin-top: .5em;
+    margin-bottom: .5em;
 }
