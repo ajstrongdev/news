@@ -57,9 +57,19 @@ a .page-link {
     text-decoration: none;
 }
 
+.page-link:visited {
+    color: var(--off-white);
+    text-decoration: none;
+}
+
+.page-link:hover {
+    color: var(--off-white);
+    text-decoration: none;
+    font-weight: normal;
+}
+
 a {
     color: var(--rhino-purple);
-    text-decoration: none;
 }
 
 a:visited {
@@ -68,5 +78,29 @@ a:visited {
 
 a:hover {
     color: var(--rhino-purple);
-    font-weight: bold;
+}
+
+.site-header {
+    border: 0;
+    border-style: none;
+}
+
+.site-title:visited {
+    color: var(--off-white);
+    text-decoration: none;
+}
+
+.site-title:hover {
+    color: var(--off-white);
+    text-decoration: none;
+    font-weight: normal;
+}
+
+.site-footer {
+    border: 0;
+    border-style: none;
+}
+
+.footer-col-wrapper {
+    color: var(--off-white);
 }
