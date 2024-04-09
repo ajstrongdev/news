@@ -44,8 +44,7 @@ body {
 }
 
 .post-link {
-    color: var(--off-white);
-    text-decoration: none;
+    color: var(--rhino-purple);
 }
 
 .site-title {
@@ -64,5 +63,5 @@ a:visited {
 
 a:hover {
     color: var(--rhino-purple);
-    transition: 0.3s;
+    font-weight: bold;
 }
